@@ -13,3 +13,5 @@ Three free available assets from the Unity asset store are included:
 * TextMesh PRO (https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126)
 
 Feel free to use my code in your project, all scripts in the "_Scripts" folder are released under the MIT license.
+
+![alt text](https://img.itch.zone/aW1nLzEyNDcyNDQucG5n/original/GWXu%2FS.png "Unity")
