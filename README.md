@@ -1,9 +1,7 @@
 # Run,Boy,Run (Behind the scene)
 ![alt text](https://img.itch.zone/aW1nLzEyMzgzMDYucG5n/original/JOw58%2F.png "Banner of Run,Boy,Run")
 
-This is the main game logic behind my game ["Run.Boy,Run"](https://devplayrepeat.itch.io/runboyrun), follow the link for free download.
-
-<iframe frameborder="0" src="https://itch.io/embed/257509?linkback=true" width="552" height="167"></iframe>
+**This is the main game logic behind my game ["Run.Boy,Run"](https://devplayrepeat.itch.io/runboyrun), follow the link for free download.**
 
 Clone the repository, open the project in Unity, load the "Start" scene and press "Play". A minimalistic version of Run,Boy,Run should be started. There is no main menu nor a game over screen. So if you loose you have to stop the game in Unity and start again. 
 
