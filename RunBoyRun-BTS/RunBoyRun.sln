@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunBoyRun", "RunBoyRun.csproj", "{29ACBCC7-75F9-5FBD-92E5-8AB91F99839B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunBoyRun.Editor", "RunBoyRun.Editor.csproj", "{75748BA5-7FE6-4B37-B5C3-1F1AAA13A8CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29ACBCC7-75F9-5FBD-92E5-8AB91F99839B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29ACBCC7-75F9-5FBD-92E5-8AB91F99839B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29ACBCC7-75F9-5FBD-92E5-8AB91F99839B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29ACBCC7-75F9-5FBD-92E5-8AB91F99839B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75748BA5-7FE6-4B37-B5C3-1F1AAA13A8CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75748BA5-7FE6-4B37-B5C3-1F1AAA13A8CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75748BA5-7FE6-4B37-B5C3-1F1AAA13A8CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75748BA5-7FE6-4B37-B5C3-1F1AAA13A8CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

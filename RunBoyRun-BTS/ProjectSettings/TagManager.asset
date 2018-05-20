@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Segment_FullCross
+  - Segment_LeftCorner
+  - Segment_RightCorner
+  - Segment_TCross
+  - Segment_SidewalkClear
+  - Segment_SidewalkLine
+  - Tile
+  - Segment_Corner
+  - Cubes
+  - Spheres
+  - Leg
+  - Arm
+  - Saucers
+  - Torso
+  - OtherSaucers
+  - DropZoneRight
+  - DropZoneLeft
+  - DropZoneTop
+  - DropZoneBottom
+  - TileParentObject
+  - TeleportIgnore
+  - SnappedTile
+  - ColliderRight
+  - ColliderLeft
+  - ColliderTop
+  - ColliderBottom
+  - Character
+  - TimeAndPoints
+  - Streetlight
+  - Highscore
+  - GameOverScreen
+  - TileGenerator
+  - DetectionObjectForPlayerFalling
+  - Hint
+  - Audio
+  - AudioSettings
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Character
+  - ColliderForCharacter
+  - SnappedTile
+  - BuildingsAndProps
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
